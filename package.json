@@ -1,8 +1,8 @@
 {
 	"name": "msgpack",
-	"description": "A space-efficient object serialization library for node.js",
+	"description": "Fork of msgpack with fix for Windows",
 	"version": "0.2.2",
-	"homepage": "https://github.com/msgpack/msgpack-node",
+	"homepage": "https://github.com/danielabar/msgpack-node",
 	"contributors": [
 		{
 			"name": "Amos Barreto",
@@ -58,7 +58,7 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/msgpack/msgpack-node.git"
+		"url": "https://github.com/danielabar/msgpack-node.git"
 	},
 	"main": "./lib/msgpack",
 	"directories": {

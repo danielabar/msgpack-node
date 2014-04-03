@@ -1,3 +1,7 @@
+Fork of [msgpack](https://github.com/msgpack/msgpack-node) with fix for Windows. 
+
+Removed ```tr1/``` from include in unordered_map.hpp and unordered_set.hpp.
+
 `node-msgpack` is an addon for [NodeJS](http://nodejs.org) that provides an
 API for serializing and de-serializing JavaScript objects using the
 [MessagePack](http://msgpack.sourceforge.net) library. The performance of this

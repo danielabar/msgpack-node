@@ -19,7 +19,7 @@
 #define MSGPACK_TYPE_TR1_UNORDERED_MAP_HPP__
 
 #include "msgpack/object.hpp"
-#include <tr1/unordered_map>
+#include <unordered_map>
 
 namespace msgpack {
 
